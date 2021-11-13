@@ -3,7 +3,7 @@
 ### Overview of the Analysis
 For this project the objective was to visualize citibike data in NYC using tableau to provide insights for a business proposal to create a similar ride sharing system in Des Moines, Iowa. The Citibike data for the month of August in 2019 was taken from the citibike website and was used for the visualization. Several visualizations such as checkout time for users, checkout times by gender, trips by weekday for each hour, trips by gender by weekday per hour, user trips by gender, top starting and ending locations were presented in a tableau story.
 
-[Link To Dashboard](https://public.tableau.com/app/profile/abrar.haque/viz/Challenge_16367843843500/Challenge)
+[Link To Tableau Story](https://public.tableau.com/app/profile/abrar.haque/viz/Challenge_16367843843500/Challenge)
 
 ### Results
 
