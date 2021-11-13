@@ -17,7 +17,7 @@ The visualization above is the **Checkout Times by Gender** similar to that of t
 
 The visualization above displays **Trips by Weekday for Each Hour**, with a heat map visualizing count of trips throughout the hours of the weekdays. The color schema goes from gold (low relative ride count) to dark red (high relative ride count). It can be seen that between the hours of 7am - 9am and 5pm - 7pm ride on Monday through Friday the count was relatively high, these are typically realized as commuting hours since most individuals work a 9-5 M-F. 
 
-![image](https://user-images.githubusercontent.com/85713568/141654558-9cf957a9-de1b-4cd5-b656-ad0bff82ad89.png)
+![image](https://user-images.githubusercontent.com/85713568/141654787-479c78e9-43c7-4ac3-9433-77cd38f524de.png)
 
 The visualization above displays **Trips by Gender (Weekday per Hour)** similar to the previous visualization before it with a heat map displaying ride count throughout the weekdays by the hour but also filtering for Gender. The ride counts for the previously mentioned popular commuting hours and overall use are predominantly men. 
 
