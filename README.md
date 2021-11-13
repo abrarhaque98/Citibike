@@ -28,5 +28,16 @@ The visualization above displays **User Trips by Gender by Weekday**, visualizin
 ![image](https://user-images.githubusercontent.com/85713568/141655143-f775ea8b-0dd2-45b1-b8ab-b47b48fd0f87.png)
 ![image](https://user-images.githubusercontent.com/85713568/141655198-fd2549b7-3aac-4f68-aca2-31dd62bd5b6a.png)
 
-The visualizations above display **Top Starting Locations and Top Ending Locations**, the locations are visualized by size of ride count from each location and a color scheme for more visual clarity.
+The visualizations above display **Top Starting Locations and Top Ending Locations**, the locations are visualized by size of ride count from each location and a color scheme for more visual clarity. It can be seen that the majority of starting and ending location counts were within Manhattan. 
+
+### Summary 
+In summary the visualization provides insight into several factors of NYC citibike business. 
+* Most bikes in the month of August were checked out for under an hour.
+* Men make up the majority of bike users.
+* The prime hours for bike checkouts seem to be between commuting hours on weekdays and leisure hours on weekends. 
+* Most of the trips were within Manhattan although there were locations in Brooklyn, and Queens. 
+
+For a deeper understanding and further insight into NYC's Citibike business further visualizations could be performed, one being providing similar visualizations on citibike data for another month of the year particularly the winter to measure activity and profitability within the less popular months. 
+Another visualization if possible would be to map popular starting and ending points against alternative modes of transportation such as trains / buses. This visualization would allow a comparison to see whether the bikes were chosen as a preference over other modes of transportation or as a convenience because no other alternative modes of transportation were available. From a glance a lot of the hot starting and ending points were along side the west side of Manhattan where fewer train and bus options are available. Many also go into midtown Manhattan which populates a large amount of Manhattans work force.
+
 
