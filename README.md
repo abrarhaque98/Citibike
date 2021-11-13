@@ -24,3 +24,9 @@ The visualization above displays **Trips by Gender (Weekday per Hour)** similar 
 ![image](https://user-images.githubusercontent.com/85713568/141654656-604886fe-163f-4939-a6e9-21499e5949ce.png)
 
 The visualization above displays **User Trips by Gender by Weekday**, visualizing the user type of customer / subscriber by gender. The ride count of subscribers for Females and Males outnumber that of customer user types. Males are still seen to be using the bikes more consistently throughout the week under the subscriber usertype, while other combinations vary.
+
+![image](https://user-images.githubusercontent.com/85713568/141655143-f775ea8b-0dd2-45b1-b8ab-b47b48fd0f87.png)
+![image](https://user-images.githubusercontent.com/85713568/141655198-fd2549b7-3aac-4f68-aca2-31dd62bd5b6a.png)
+
+The visualizations above display **Top Starting Locations and Top Ending Locations**, the locations are visualized by size of ride count from each location and a color scheme for more visual clarity.
+
