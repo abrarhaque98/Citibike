@@ -6,3 +6,5 @@ For this project the objective was to visualize citibike data in NYC using table
 ### Results
 
 ![image](https://user-images.githubusercontent.com/85713568/141653962-69346bbd-1dea-488b-91db-d571a3cee645.png)
+
+The visualization above displays the **Checkout Times for Users**, the 0/1/2 charts indicate the hours along with the minutes inside the graphs. It appears that a majority of checkout times were under 1 hour.  
